@@ -1,3 +1,3 @@
-# Wouter's dotfiles ❤ ~/
+# Delta dotfiles ❤ ~/
 
-Personal preferences, apps, tools and more.
+Some sensible defaults, recommended packages, apps and more.
