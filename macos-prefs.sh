@@ -4,12 +4,6 @@
 sudo -v
 while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
 
-# Set computer name (as done via System Preferences → Sharing)
-sudo scutil --set ComputerName "Wouter's MacBook Air"
-sudo scutil --set HostName "macbook-air-wouterds"
-sudo scutil --set LocalHostName "macbook-air-wouterds"
-sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.smb.server NetBIOSName -string "macbook-air-wouterds"
-
 # Allow apps from anywhere
 sudo spctl --master-disable
 
