@@ -14,7 +14,7 @@ easy_install pyserial
 easy_install esptool
 
 # Ruby
-gem install cocoapods
+gem install cocoapods --version 1.8.3
 
 # VSCode
 code --install-extension dbaeumer.vscode-eslint
