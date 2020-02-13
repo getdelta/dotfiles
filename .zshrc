@@ -1,7 +1,7 @@
 export ZSH=/Users/wouterds/.oh-my-zsh
 
 # Set name of the theme to load, look in ~/.oh-my-zsh/themes/
-ZSH_THEME="agnoster"
+ZSH_THEME="robbyrussell"
 
 # Default user
 DEFAULT_USER=wouterds
