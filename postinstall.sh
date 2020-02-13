@@ -2,7 +2,7 @@
 
 # Node
 npm install -g yarn
-npm install -g @react-native-community/cli
+npm install -g react-native-cli@2.0.1
 npm install -g wml
 
 # Python
